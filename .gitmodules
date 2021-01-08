@@ -1,0 +1,3 @@
+[submodule "streamlit_freecodecamp"]
+	path = streamlit_freecodecamp
+	url = https://github.com/dataprofessor/streamlit_freecodecamp.git
